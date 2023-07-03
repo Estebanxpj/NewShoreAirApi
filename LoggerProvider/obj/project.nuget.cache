@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qfXSVxRMPTBX+iWd2eoQewDdoQvrdXBLfEkbiS0b7GWYdRc4SaayF50ZRBTtPJQwo0wKSEUV51zVZ/DVbU97cQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\esteb\\Documents\\Esteban\\Proyectos\\BackEnd\\.NET\\NewShoreAirApi\\LoggerProvider\\Logger.Provider.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\esteb\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\esteb\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\esteb\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

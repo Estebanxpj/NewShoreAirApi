@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jG9FW5T2OYldDq175ZZzfDaBN9ysZcewdIgMd3BZ3CqhNvLF0tTA3sil7igXEQSEehQXl1vbEbCJXhCd0jZRPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\esteb\\Documents\\Esteban\\Proyectos\\BackEnd\\.NET\\NewShoreAirApi\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\esteb\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\esteb\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\esteb\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
