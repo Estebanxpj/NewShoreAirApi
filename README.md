@@ -10,11 +10,11 @@ NewShoreAirApi
 
 4. Abrir la solucion e ir a la ruta "Adapters/NewShoreAirApi/appsettins.josn" y abrir el archivo.
 
-5. Agregar en la ruta "AppConfig=>ALLOWEDORIGI" la URL del proyecto "NewShoreClient" (FondEnd de la solucion) con la que se desplego en el localhost de su maquina. ejemplo: "http://localhost:4200|"
+5. Agregar en la  clave "AppConfig.ALLOWEDORIGI" la URL del proyecto "NewShoreClient" (FrondEnd de la solucion) con la que se desplego en el localhost de su maquina. ejemplo: "http://localhost:4200|"
 
 6. Dar click derecho sobre la solucion y seleccionar "Recompilar solucion"
 
-7. Precionar el boton correr que esta en la barra de tares el Visual, (Es una flecha verde).
+7. Precionar el boton correr que esta en la barra de tareas el Visual, (Es una flecha verde).
 
 
 Si requiere mas informacion comunicar se al Correo estebanxpj@gmail.com.
